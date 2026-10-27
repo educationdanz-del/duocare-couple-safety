@@ -1,0 +1,6 @@
+{
+  "name": "DuoCare: Couple Safety",
+  "description": "Aplikasi keselamatan pasangan dengan persetujuan bersama: berbagi lokasi real-time, status aktivitas, daya baterai, dan tombol darurat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
