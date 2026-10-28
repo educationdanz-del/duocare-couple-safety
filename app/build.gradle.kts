@@ -9,11 +9,11 @@ plugins {
 }
 
 android {
-  namespace = "com.example"
+  namespace = "com.educationdanz.DuoCare"
   compileSdk { version = release(36) { minorApiLevel = 1 } }
 
   defaultConfig {
-    applicationId = "com.example"
+    applicationId = "com.educationdanz.DuoCare"
     minSdk = 24
     targetSdk = 36
     versionCode = 1
