@@ -1,4 +1,4 @@
-package com.example
+package com.educationdanz.DuoCare
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
